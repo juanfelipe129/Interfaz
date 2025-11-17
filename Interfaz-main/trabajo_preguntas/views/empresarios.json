@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "Cesar David Almeciga",
+        "empresa": "Mefcado Libre",
+        "cargo": "Analista",
+        "telefono": "3214815792",
+        "correo": "cesar@gmail.com",
+        "ciudad": "Bogotá",
+        "fecha de nacimiento": "18/04/2000",
+        "n° de hijos": 0,
+        "foto": "C:/Users/Janus/Downloads/Sin título.png"
+    },
+    {
+        "nombre": "Juan Felipe Almeciga Diaz",
+        "empresa": "COS",
+        "cargo": "Torre de Control",
+        "telefono": "3108640144",
+        "correo": "juanfe@gmail.com",
+        "ciudad": "Bogotá",
+        "fecha de nacimiento": "19/06/2007",
+        "n° de hijos": 0,
+        "foto": ""
+    }
+]
